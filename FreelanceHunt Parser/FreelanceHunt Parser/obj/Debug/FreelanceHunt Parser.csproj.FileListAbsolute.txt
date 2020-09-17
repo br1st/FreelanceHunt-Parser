@@ -1,0 +1,12 @@
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\FreelanceHunt Parser.exe.config
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\FreelanceHunt Parser.exe
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\FreelanceHunt Parser.pdb
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\RestSharp.dll
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\RestSharp.xml
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\obj\Debug\FreelanceHunt Parser.csprojAssemblyReference.cache
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\obj\Debug\FreelanceHunt Parser.csproj.CoreCompileInputs.cache
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\obj\Debug\FreelanceHunt Parser.csproj.CopyComplete
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\obj\Debug\FreelanceHunt Parser.exe
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\obj\Debug\FreelanceHunt Parser.pdb
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\Newtonsoft.Json.dll
+D:\VS 2017 Projects\FreelanceHunt Parser\FreelanceHunt Parser\bin\Debug\Newtonsoft.Json.xml
